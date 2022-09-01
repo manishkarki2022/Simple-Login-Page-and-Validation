@@ -1,0 +1,72 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 174, 132, 0.39), rgba(0, 174, 132, 0.39)), #FFFFFF;
+    font-family: 'Arial';  
+}  
+.login{ 
+    position: relative;
+    top: 200px;
+        width: 600px;  
+        height: 250px;
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #F4F4F4;  
+        border-radius: 15px ; 
+        opacity:0.9;
+          
+} 
+#Uname{ 
+    position: relative; 
+    left: 100px;
+    width: 300px;  
+    height: 40px;  
+    border: none;  
+      
+    padding-left: 8px; 
+    background: #F4F4F4;
+border: 1px solid #000000;
+border-radius: 40px; 
+    
+} 
+#Pass{
+    position: relative;
+    left: 100px;
+    width: 300px;  
+    height: 40px;  
+    border: none;  
+     
+    padding-left: 8px; 
+    background: #F4F4F4;
+border: 1px solid #000000;
+border-radius: 40px;
+    
+}
+#sub{
+ left: 110px;
+ position: relative;
+        width: 290px;  
+        height: 40px;  
+        border: none;  
+        border-radius: 17px;  
+        padding-left: 7px;  
+        color: blue;
+    background-color: #1FD95E;  
+    color: #F4F4F4;
+      
+      
+    
+}
+h2 {
+    position: relative;
+    left:350px
+}
+img{
+    position: relative;
+    float: left;
+    width: 200px;
+    top: -20px;
+}
